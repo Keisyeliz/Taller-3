@@ -1,0 +1,13 @@
+.carousel-item img {
+    height: 50vh; /* 50% de la altura de la ventana gráfica */
+    /* Asegura que las imágenes ocupen todo el ancho del carrusel */
+}
+
+article{
+    background: #ecceab;
+}
+
+aside{
+    background: blueviolet;
+}
+
